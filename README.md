@@ -10,11 +10,9 @@
 2. Dentro desta pasta, crie um arquivo main.c com o seguinte conteúdo
 
   ```c
-```
     #include <stdio.h>
     int main() {}
-```
-```
+  ```
 
 3. Faça o commit de sua contribuição. Seu commit deve ser ASSINADO.
 
